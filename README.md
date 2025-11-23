@@ -15,3 +15,8 @@ https://github.com/kavan010/black_hole
 https://www.youtube.com/watch?v=Cp5WWtMoeKg
 
 ## Gallery
+
+<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend.png"/>
+<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend2.png"/>
+<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend3.jpeg"/>
+<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend4.jpeg"/>
