@@ -15,8 +15,7 @@ https://github.com/kavan010/black_hole
 https://www.youtube.com/watch?v=Cp5WWtMoeKg
 
 ## Gallery
-
-<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend.png"/>
-<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend2.png"/>
-<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend3.jpeg"/>
-<img a="https://github.com/ArgonCat/black_hole_raytracer/blob/main/rend4.jpeg"/>
+![black hole from afar](rend.png)
+![black hole from up close](rend2.png)
+![black hole with a blank skybox](rend3.jpeg)
+![black hole with gravitational lensing disabled](rend4.jpeg)
